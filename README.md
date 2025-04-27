@@ -26,11 +26,3 @@ Welcome to **VulnWeb**, a multi-level intentionally vulnerable web app designed 
 | **Level 5** | Coming Soon | (Potential: Full chained exploitation) |
 
 ---
-
-## 🚀 Setup Instructions
-
-1. Clone the repo:
-
-   ```bash
-   git clone https://github.com/your-username/vulnweb.git
-    
