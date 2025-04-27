@@ -1,0 +1,22 @@
+Welcome to Global Trust Bank - Level 1 Challenge!
+
+Objective:
+- Find valid login credentials.
+- Successfully log into the secure portal.
+- Retrieve the hidden Level 2 Access Code.
+
+Steps:
+
+1. Connect to the secure web portal:
+   -> http://<server-ip>/MyVulnWeb/login_form.php
+
+2. You must manually access the database to find valid usernames and passwords.
+   -> Hint: Look inside the "users" table of the database.
+
+3. Log in using valid credentials you discovered.
+
+4. After logging in, navigate through the Dashboard carefully.
+
+5. Find and record the hidden 'Level 2 Access Code' inside the Secure Notes section.
+
+Good luck!
